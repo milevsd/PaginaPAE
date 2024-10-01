@@ -1,0 +1,49 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 40px;
+    padding-top: 140px;
+    text-align: justify;
+    color: rgb(244, 237, 237);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("wine.jpg");
+   
+
+}
+.titulo{
+font-size: 60px;
+color: black;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.img1{
+    height: 193px;
+    width: 300px;
+    background-image: url("pa3.jpg");
+    background-repeat: no-repeat;
+    float: right;
+}
+.img2{
+    height: 500px;
+    width: 500px;
+    background-image: url("p4e.jpg");
+    background-repeat: no-repeat;
+    float: left;
+}
+.imgtec3{
+    height: 150px;
+    width: 200px;
+    background-image: url("pa3.jpg");
+    background-repeat: no-repeat;
+    float: right;
+
+}
